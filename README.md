@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Stina 👋
 
-<!--
-**stinawallermo/stinawallermo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying to become a Business Intelligence Analyst at Nackademin in Stockholm. Before that, I spent over five years working with data-driven marketing, performance analysis and client management at a digital marketing agency.
 
-Here are some ideas to get you started:
+I'm currently looking for a LIA internship within Business Intelligence or Data Analytics, where I can combine analytical thinking, business understanding and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- Power BI, DAX and Power Query
+- SQL
+- Python and Excel
+
+## Currently
+- Building my portfolio through hands-on projects in Power BI, SQL and Python
+- Expanding my skills in data analysis and visualization
+
+## Get in touch
+I'm always interested in connecting with people within BI, data analytics and technology.
+
+[LinkedIn](https://www.linkedin.com/in/stina-wallermo/)
